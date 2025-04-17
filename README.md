@@ -20,5 +20,5 @@ Python, Django, HTML, CSS, SQLite
 ## Screenshots
 
 ![Homepage](homepage.png)
-![Dashboard](dasboard.png)
+![Dashboard](dashboard.png)
 
